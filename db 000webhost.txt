@@ -1,0 +1,3 @@
+dbname: id20298522_ciblog_emiloi
+db username: id20298522_ciblog_portfolio
+db pw: k\CV/9&_As2x0lp_
